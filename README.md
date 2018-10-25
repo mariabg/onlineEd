@@ -5,7 +5,7 @@
 
 ## On going
 - [ ] [Information Visualization: Foundations](https://www.coursera.org/learn/information-visualization-fundamentals/), Coursera.
-- [ ] [First 100 problems from (Euler Project](projecteuler.net 10/100).
+- [ ] [First 100 problems from (Euler Project](projecteuler.net) 17/100.
 
 ## Near future
 - [ ] [CS20: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html), Stanford University
