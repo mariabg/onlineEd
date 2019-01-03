@@ -6,7 +6,7 @@
 
 
 ## On going
-- [ ] [First 100 problems from (Euler Project](projecteuler.net) 25/100.
+- [ ] [First 100 problems from (Euler Project)](projecteuler.net), 25/100.
 - [ ] [Practical Deep Learning For Coders, Part 1](http://course.fast.ai/), Fast.ai
 
 ## Near future
